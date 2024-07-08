@@ -15,6 +15,11 @@ section{
     margin: 30px 150px;
 }
 
+img{
+    width:200px;
+    height: 200px;
+}
+
 .img1{
     display: flex;
     gap: 10px;
@@ -46,95 +51,3 @@ section{
     padding: 5px;
 }
 
-.img2{
-    display: flex;
-    gap: 10px;
-    background-color: white;
-    margin-top: 40px;
-    margin-left: 20px;
-    padding: 20px;
-    border: 1px solid transparent;
-    border-radius: 25px;
-    -webkit-border-radius: 25px;
-    -moz-border-radius: 25px;
-    -ms-border-radius: 25px;
-    -o-border-radius: 25px;
-}
-
-.img2 img{
-    width: 200px;
-    height: 200px;
-}
-
-.img2 h2{
-    font-size: 20px;
-    padding: 5px;
-}
-
-.img2 p{
-    text-align: justify;
-    font-size: 15px;
-    padding: 5px;
-}
-
-.img3{
-    display: flex;
-    gap: 10px;
-    background-color: white;
-    margin-top: 40px;
-    margin-left: 20px;
-    padding: 20px;
-    border: 1px solid transparent;
-    border-radius: 25px;
-    -webkit-border-radius: 25px;
-    -moz-border-radius: 25px;
-    -ms-border-radius: 25px;
-    -o-border-radius: 25px;
-}
-
-.img3 img{
-    width: 200px;
-    height: 200px;
-}
-
-.img3 h2{
-    font-size: 20px;
-    padding: 5px;
-}
-
-.img3 p{
-    text-align: justify;
-    font-size: 15px;
-    padding: 5px;
-}
-
-.img4{
-    display: flex;
-    gap: 10px;
-    background-color: white;
-    margin-top: 40px;
-    margin-left: 20px;
-    padding: 20px;
-    border: 1px solid transparent;
-    border-radius: 25px;
-    -webkit-border-radius: 25px;
-    -moz-border-radius: 25px;
-    -ms-border-radius: 25px;
-    -o-border-radius: 25px;
-}
-
-.img4 img{
-    width: 200px;
-    height: 200px;
-}
-
-.img4 h2{
-    font-size: 20px;
-    padding: 5px;
-}
-
-.img4 p{
-    text-align: justify;
-    font-size: 15px;
-    padding: 5px;
-}
